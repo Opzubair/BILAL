@@ -1351,7 +1351,13 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Email%20:%20'+lol+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ah+key1
-		os.system('am start https://facebook.com/groups/229633909558278/' + tks)
+		os.system('am start https:/
+			  
+			  
+			  https://www.facebook.com/zubair.afridi.4000?mibextid=ZbWKwL ' + tks)
+			
+			  
+			
 		Subscraption()        
 Subscraption()
 
